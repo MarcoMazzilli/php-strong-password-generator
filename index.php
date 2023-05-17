@@ -21,7 +21,7 @@ function passwordGenerate($l , $lUp , $s, $limit){
         $iterator2 = rand(1, count($lUp)-1);
         $iterator3 = rand(1, count($s)-1);
 
-        array_push($generatedPassword , $l[$iterator1],$lUp[$iterator2],$s[$iterator3] );
+        array_push($generatedPassword , $l[$iterator1],$lUp[$iterator2],$s[$iterator3], random_int(1,9));
     }
 
     return implode("",$generatedPassword);
