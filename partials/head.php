@@ -7,5 +7,5 @@
     <link rel="shortcut icon" href="./assets/favicon.ico" type="ico">
     <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.min.css' integrity='sha512-SbiR/eusphKoMVVXysTKG/7VseWii+Y3FdHrt0EpKgpToZeemhqHeZeLWLhJutz/2ut2Vw1uQEj2MbRF+TVBUA==' crossorigin='anonymous'/>
     <link rel="stylesheet" href="./style/style.css">
-    <title>Stron Password Generator</title>
+    <title>Strong Password Generator</title>
 </head>
